@@ -103,6 +103,9 @@ img.resize {
 	background: #4a6c6f;
 }
 
+.therapy, .volunteer, .certification {
+	width: 600px;
+}
 
 header {
 	background: #FFED74;
